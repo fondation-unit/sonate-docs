@@ -1,0 +1,8 @@
+{
+  "label": "Emails",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Fonctionnement des emails du back-office."
+  }
+}

@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Accueil',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -74,13 +74,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'backofficeSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/fondation-unit/sonate-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
