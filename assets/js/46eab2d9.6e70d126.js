@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksonate_docs=self.webpackChunksonate_docs||[]).push([[1554],{8204:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/sonate-docs/blog/tags/hola","allTagsPath":"/sonate-docs/blog/tags","count":1,"unlisted":false}')}}]);

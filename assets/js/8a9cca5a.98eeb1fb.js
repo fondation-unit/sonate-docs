@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksonate_docs=self.webpackChunksonate_docs||[]).push([[3241],{2972:e=>{e.exports=JSON.parse('{"permalink":"/sonate-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
